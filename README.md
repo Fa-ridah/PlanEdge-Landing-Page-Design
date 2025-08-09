@@ -54,7 +54,7 @@ View the full design via Figma:
 
 ##  License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+This project is licensed under the **MIT LICENSE**.
 
 You may share and adapt the design with proper credit, but **commercial use is prohibited** without permission.
 
