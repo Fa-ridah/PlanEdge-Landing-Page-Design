@@ -1,4 +1,4 @@
-# PlanEdge — Landing Page Design
+# PlanEdge — Complete Website
 
 This repository contains the Figma-based design for **PlanEdge**, including interface layouts, design systems, and visual assets for the landing page.
 
