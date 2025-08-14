@@ -1,12 +1,12 @@
 # PlanEdge — Complete Website
 
-This repository contains the Figma-based design for **PlanEdge**, including interface layouts, design systems, and visual assets for the landing page.
+This repository contains the Figma-based design for **PlanEdge**, including interface layouts, design systems, and visual assets for the website.
 
 ---
 
 ##  Overview
 
-**PlanEdge** is a sleek and responsive landing page design, created in Figma, aimed at helping users seamlessly plan and manage their projects. This README provides details on the design structure, how to review or access the project, and instructions for contributors.
+**PlanEdge** is a sleek and responsive website design, created in Figma, aimed at helping users seamlessly plan and manage their finances. This README provides details on the design structure, how to review or access the project, and instructions for contributors.
 
 ---
 
